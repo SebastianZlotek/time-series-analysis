@@ -15,7 +15,7 @@ library(lubridate)
 
 #Ustawienie katalogu głownego
 getwd()
-setwd("C:/Users/Sebastian/Desktop/studia/II rok 2 semestr/Szeregi_czasowe_PROJEKT")
+setwd("filepath")
 
 #Wczytanie plikow csv
 sumagot <- read.csv("BOGMBASE.csv")
